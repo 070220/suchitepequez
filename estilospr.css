@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+     color: #e63946;
+}
+p{
+    text-align: center;
+    color: floralwhite;
+    background-color: blue;
+}
+h2{
+    text-align: center;
+     color: #e63946;
+}
+h3{
+    text-align: center;
+     color: #e63946;
+}
+.caja1{
+    padding: 10px 15px 5px 3px;
+    border: 1px solid #6633CC;
+    margin: 30PX;
+    background-color: darkgrey;
+    max-width: 300px;
+    box-sizing: border-box;
+    
+  }
+h4{
+    text-align: center;
+     color: #e63946;
+}
